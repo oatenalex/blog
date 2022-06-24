@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby 2.6.3
+Rails 7.0.0
 
-Things you may want to cover:
+setup using tokaido
 
-* Ruby version
+default url: http://localhost:3000/
 
-* System dependencies
+default HTTP authent username: dhh
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+default HTTP authent password: secret
